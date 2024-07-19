@@ -1,7 +1,7 @@
 # Spotify-Clone
 A Fullstack Spotify Clone made using React, Next.js, Typescript, PostgreSQL, TailwindCSS and Supabase.
 
-![Project Image](https://github.com/haider-sama/Pizzrella-Food-Ordering-App/blob/main/public/thumbnail.png)
+![Project Image](https://github.com/haider-sama/Spotify-Clone/blob/main/public/thumbnail.png)
 
 ## Features
 
